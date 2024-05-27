@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8OisnmKe)
 1. Senkron ve Asenkron iletişim nedir örneklerle açıklayın? (5 PUAN)
 2. RabbitMQ ve Kafka arasındaki farkları araştırın? (5 PUAN)
 3. Docker komutlarını örneklerle araştırın. Aşağıdaki işlemleri gerçekleştirin. (10 PUAN)
